@@ -12,8 +12,14 @@ To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 
 ## Assets
 
-2 imagese where used form the web one for the bacjgrounf and second for the chrather 
+## Assets
+
+| File                          | Source                                  |
+| ---------------------------   | --------------------------------------- |
+| `assets/image/bgImage.png` [1]| Medium.com                              |
+| `assets/image/images.png`  [2]| fandom.com                              |
+
 ## References
 
-Finck, B. (2020, May 30). Uniting around video games: Celeste is the hardest game that everyone can play. SUPERJUMP, Medium. https://medium.com/super-jump/uniting-around-video-games-d982e1b729da
-Celeste Wiki Contributors. (n.d.). Madeline. Celeste Wiki, Fandom. Retrieved May 20, 2026, from https://celestegame.fandom.com/wiki/Madeline
+[1]Finck, B. (2020, May 30). Uniting around video games: Celeste is the hardest game that everyone can play. SUPERJUMP, Medium. https://medium.com/super-jump/uniting-around-video-games-d982e1b729da
+[2]Celeste Wiki Contributors. (n.d.). Madeline. Celeste Wiki, Fandom. Retrieved May 20, 2026, from https://celestegame.fandom.com/wiki/Madeline
